@@ -1,0 +1,19 @@
+# Build files
+target
+
+# Code Editor related files
+.idea
+.vscode
+
+# Local files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Development files
+TODO.md
+
+# Local DB
+data
